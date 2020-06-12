@@ -10,7 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
-    <h2>Start editing to see some EDIT EDIT EDIT magic happen {"\u2728"}</h2>
+    <h2>Start editing to see some NEW BRANCH magic happen {"\u2728"}</h2>
   </div>
 );
 
